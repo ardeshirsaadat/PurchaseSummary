@@ -1,0 +1,3 @@
+backend/.serverless
+backend/node_modules
+backend/webpack
